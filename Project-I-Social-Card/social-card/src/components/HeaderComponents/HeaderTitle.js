@@ -8,6 +8,7 @@ const HeaderTitle = () => {
         <div className="header-title-wrapper">
             <div className="header-title">
                 Lambda School
+
                 <HeaderContent />
             </div>
         </div>
